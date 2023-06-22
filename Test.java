@@ -11,5 +11,15 @@ public static void main(String[] args){
 	System.out.println(s4);
 	System.out.println(s4);
 	System.out.println(s4);
+	System.out.println(s3);
+	System.out.println(s4);
+	System.out.println(s4);
+	System.out.println(s4);
+	System.out.println(s4);
+	System.out.println(s3);
+	System.out.println(s4);
+	System.out.println(s4);
+	System.out.println(s4);
+	System.out.println(s4);
 }
 }
